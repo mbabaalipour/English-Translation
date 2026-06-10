@@ -1,4 +1,4 @@
-# Chapter 7: Technology (Persian Translation)
+# Chapter 7: Technology (English-Persian Translation)
 
 Complete translation of Chapter 7 from **Intermediate Microeconomics** by **Samiran Banerjee**
 
